@@ -1,8 +1,10 @@
 # SPH Fluid + Rigid Body Simulation (C++ / OpenGL)
 
-This repository contains my final project for the IGR202-Computer Graphics and VR class
+This repository contains my final project for the IGR202-Computer Graphics and VR class.
+
 I implemented a small real time solver to create a 2D Smoothed Particle Hydrodynamics (SPH) fluid coupled with a rigid body, rendered with OpenGL. 
-Parts of the code were written by Pr. Um Kiwon which I adapted for this project.
+
+Note : Parts of the code were written by Pr. Um Kiwon which I adapted for this project.
 
 
 ## Demo
