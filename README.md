@@ -6,7 +6,7 @@ Parts of the code were written by Pr. Um Kiwon which I adapted for this project.
 
 
 ## Demo
-<video src="./final_video.mp4" controls width="700" playsinline></video>
+<video src="final_video.mp4" controls width="700" playsinline></video>
 
 ## Features
 
