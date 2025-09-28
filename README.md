@@ -7,8 +7,9 @@ I implemented a small real time solver to create a 2D Smoothed Particle Hydrodyn
 Note : Parts of the code were written by Pr. Um Kiwon which I adapted for this project.
 
 
-## Demo
-<video src="final_video.mp4" controls width="700" playsinline></video>
+
+![Demo](final.gif)
+
 
 ## Features
 
