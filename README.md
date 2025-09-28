@@ -19,8 +19,7 @@ Note : Parts of the code were written by Pr. Um Kiwon which I adapted for this p
 - Gravity and box wall collisions
 - Rigid body boundary represented by sample points, two way coupling with the fluid
 - Uniform grid neighbor search for particles and boundary samples
-- Immediate mode style OpenGL rendering for simplicity
-- Cross platform build with CMake
+
 
 ## Project layout
 - `SphSolver.hpp` - 2D SPH solver: particles, neighbor grid, density, pressure, viscosity, integration, wall collision, colors and velocity lines for visualization.
